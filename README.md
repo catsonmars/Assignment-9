@@ -10,10 +10,10 @@ That is, all book information will be returned.Note that data being send out is 
 UML
 ![image](https://github.com/catsonmars/Assignment-9/assets/11530542/5f521eb6-dfd6-4107-bdee-8c63c2edacc5)
 
-##Microservice examples
+## Microservice examples
 <img width="875" alt="Screen Shot 2023-11-20 at 10 17 29 PM" src="https://github.com/catsonmars/Assignment-9/assets/11530542/249dae76-6fb4-43f0-b427-2606d49e41f4">
 
-#Mismatch between client and host port numbers
+-Mismatch between client and host port numbers
 <img width="785" alt="Screen Shot 2023-11-20 at 10 18 39 PM" src="https://github.com/catsonmars/Assignment-9/assets/11530542/8a85c11c-5975-4edf-ab64-e75d6a4a1ef3">
 
-I can't get the error to repeat, but if it ever says the port/ connection is busy, just rerun the program.
+-I can't get the error to repeat, but if it ever says the port/ connection is busy, just rerun the program.
