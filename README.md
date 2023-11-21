@@ -1,4 +1,4 @@
-# Assignment-9
+# Assignment-9 Microservice project, Milestone #2.
 **1)Clear instructions for how to programmatically REQUEST data from the microservice you implemented. Include an example call.
 **
 To request data. Go into the client.py file, then read line 12, there is a variable, {data}. {data} is used to send sql queries from client.py to host.py. As of now, "SELECT*FROM users works". 
