@@ -15,3 +15,5 @@ UML
 
 #Mismatch between client and host port numbers
 <img width="785" alt="Screen Shot 2023-11-20 at 10 18 39 PM" src="https://github.com/catsonmars/Assignment-9/assets/11530542/8a85c11c-5975-4edf-ab64-e75d6a4a1ef3">
+
+I can't get the error to repeat, but if it ever says the port/ connection is busy, just rerun the program.
